@@ -15,8 +15,5 @@
 /log/*
 !/log/.keep
 /tmp
-/Gemfile.lock
 /.idea
 /*.log
-
-/.conflux/

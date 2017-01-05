@@ -31,6 +31,7 @@ div {
 .units {
   font-size: 22px;
   margin-top: 15px;
+  color: #C33A3F;
 }
 
 @media (max-width: 869px) {

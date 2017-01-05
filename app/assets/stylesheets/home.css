@@ -1,4 +1,12 @@
 
+body {
+  background: url("/jbo-taco.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 div {
   box-sizing: border-box;
 }
@@ -26,12 +34,17 @@ div {
 
 .val {
   font-size: 70px;
+  color: white;
+  font-weight: 500;
 }
 
 .units {
-  font-size: 22px;
-  margin-top: 15px;
-  color: #C33A3F;
+  font-size: 18px;
+  margin-top: 20px;
+  text-transform: uppercase;
+  color: #F3F30E;
+  font-family: Arial;
+  font-weight: 500;
 }
 
 @media (max-width: 869px) {
